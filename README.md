@@ -1,6 +1,6 @@
 # Moa2toshihiko
 
-Moa2 v2 with toshihiko（for mysql）
+Moa2 v2 with [toshihiko](https://github.com/XadillaX/Toshihiko)（for mysql）
 
 - 支持Koa 2.x所有中间件写法
 - 支持toag生成器
