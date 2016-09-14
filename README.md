@@ -12,6 +12,11 @@ Moa2 v2 with toshihiko（for mysql）
 npm i -g toag
 ```
 
+### 约定
+
+- toshihiko没有自动给模型增加id,所以toag生成模型的时候自带自增的id
+- 如果想加memcache，请修改db.js和config.js即可，都是可以修改的
+
 ### 方式1：生成promise-based中间件(common function)
 
 ```
