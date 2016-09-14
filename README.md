@@ -40,5 +40,5 @@ runkoa bin/www
 ### 删除生成的代码
 
 ```
-soad book
+toad book
 ```
